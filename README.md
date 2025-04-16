@@ -1,6 +1,6 @@
-# FastAPI Sample App
+# FastAPI HubSpot
 
-Una aplicación de ejemplo creada con FastAPI, containerizada con Docker y diseñada para correr tanto en ambiente local como desplegarse en IBM Code Engine.
+Una aplicación creada con FastAPI, containerizada con Docker y diseñada para correr tanto en ambiente local como desplegarse en IBM Code Engine.
 
 ## Tabla de Contenido
 
